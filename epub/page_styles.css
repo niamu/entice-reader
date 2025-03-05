@@ -1,0 +1,10 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Average Mono";
+    src: url(OEBPS/Fonts/AverageMonoBold.otf);
+    font-weight: normal;
+    font-style: normal
+    }

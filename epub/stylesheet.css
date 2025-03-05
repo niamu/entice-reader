@@ -1,0 +1,469 @@
+.abbr {
+    color: inherit;
+    font-family: inherit;
+    font-size: 1em;
+    font-style: inherit;
+    font-variant: small-caps;
+    font-weight: inherit;
+    text-decoration: none;
+    text-transform: lowercase;
+    vertical-align: baseline
+    }
+.aspect-ratio {
+    height: auto;
+    max-height: 95%;
+    max-width: 100%;
+    object-fit: contain;
+    width: auto
+    }
+.aspect-ratio1 {
+    height: auto;
+    max-height: 95%;
+    max-width: 100%;
+    object-fit: contain;
+    width: 100%
+    }
+.author {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-size: 1.125em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 1.5;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 30% 0 0
+    }
+.break-word {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    text-indent: 0;
+    word-wrap: break-word;
+    padding: 0;
+    margin: 1em 0 0
+    }
+.calibre {
+    -webkit-hyphenate-limit-lines: 2;
+    display: block;
+    font-family: "Minion Pro", Athelas, Georgia, serif;
+    font-size: 1em;
+    font-variant-ligatures: common-ligatures;
+    font-variant-numeric: oldstyle-nums;
+    hyphenate-limit-lines: 2;
+    line-height: 1.5;
+    orphans: 2;
+    widows: 2;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: inherit;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre2 {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    border-bottom: rgba(95, 121, 149, 0.5) solid 0.25em;
+    margin: 0.5em 0 1.5em
+    }
+.calibre3 {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-indent: 0
+    }
+.calibre4 {
+    display: list-item;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre5 {
+    color: rgba(204, 0, 0, 0.9);
+    font-size: 1em;
+    font-style: inherit;
+    font-weight: inherit;
+    text-decoration: none;
+    vertical-align: baseline
+    }
+.calibre6 {
+    color: inherit;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: inherit;
+    text-decoration: none;
+    vertical-align: baseline
+    }
+.calibre7 {
+    display: list-item;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre8 {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    text-indent: 0;
+    padding: 0;
+    margin: 1em 0 0
+    }
+.calibre9 {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    background: url(OEBPS/Images/quote.svg) no-repeat top left, url(OEBPS/Images/unquote.svg) no-repeat bottom right;
+    background-size: 1.25em 1.25em;
+    break-inside: avoid;
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: normal;
+    hyphens: none;
+    line-height: inherit;
+    overflow: hidden;
+    page-break-inside: avoid;
+    text-align: left;
+    text-indent: 0;
+    padding: 0 5%;
+    margin: 1.5em 0
+    }
+.calibre10 {
+    display: block;
+    font-size: 1em;
+    font-style: inherit;
+    font-weight: normal;
+    line-height: inherit;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre11 {
+    color: inherit;
+    display: block;
+    font-size: 0.5625em;
+    font-style: inherit;
+    font-variant: small-caps;
+    font-weight: inherit;
+    letter-spacing: 0.125em;
+    margin-bottom: 1em;
+    text-decoration: none;
+    text-transform: lowercase;
+    vertical-align: baseline
+    }
+.calibre12 {
+    display: block
+    }
+.calibre13 {
+    display: block;
+    font-family: Futura, "Gill Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre14 {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    break-after: avoid;
+    display: block;
+    font-size: 1.41667em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 2.285714em 0 1.142857em
+    }
+.calibre15 {
+    color: inherit;
+    font-size: 1em;
+    font-style: inherit;
+    font-weight: inherit;
+    text-decoration: none;
+    vertical-align: baseline
+    }
+.calibre16 {
+    color: inherit;
+    font-size: 0.75em;
+    font-style: inherit;
+    font-weight: inherit;
+    line-height: 1.2;
+    text-decoration: none;
+    vertical-align: 30%
+    }
+.calibre17 {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-indent: 0
+    }
+.calibre18 {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: list-item;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: inherit;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre19 {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -moz-tab-size: 2;
+    -ms-hyphens: none;
+    -ms-tab-size: 2;
+    -webkit-hyphens: none;
+    -webkit-tab-size: 2;
+    adobe-hyphenate: none;
+    break-inside: avoid;
+    display: block;
+    font-family: "Average Mono", Courier, monospace;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: inherit;
+    page-break-inside: avoid;
+    tab-size: 2;
+    text-align: left;
+    text-indent: 0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding: 0;
+    margin: 1em 0 1em 5%
+    }
+.calibre20 {
+    color: inherit;
+    font-family: "Average Mono", Courier, monospace;
+    font-size: 0.75em;
+    font-style: inherit;
+    font-weight: inherit;
+    text-decoration: none;
+    vertical-align: baseline
+    }
+.calibre21 {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-indent: 0
+    }
+.calibre22 {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-indent: 0
+    }
+.calibre23 {
+    color: inherit;
+    font-size: 1em;
+    font-style: inherit;
+    font-weight: bold;
+    text-decoration: none;
+    vertical-align: baseline
+    }
+.caption {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: inherit;
+    text-indent: 0;
+    padding: 0;
+    margin: 1em 0 0
+    }
+.hidden {
+    display: none;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.index-nav {
+    display: block;
+    font-size: 1.125em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.landscape-ratio {
+    break-inside: avoid;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    border-bottom: rgba(0, 0, 0, 0.2) solid 0.125em;
+    margin: 2em auto
+    }
+.markup {
+    color: inherit;
+    font-family: inherit;
+    font-size: 0.75em;
+    font-style: inherit;
+    font-variant: small-caps;
+    font-weight: inherit;
+    text-decoration: none;
+    text-transform: lowercase;
+    vertical-align: baseline
+    }
+.size-down {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    text-indent: 0;
+    width: 70%;
+    padding: 0;
+    margin: 0 15%
+    }
+.title {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    border-bottom: currentColor none medium;
+    margin: 0.5em 0 0
+    }
+.titlepage {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: inherit;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.pcalibre:first-line {
+    font-size: 1.25em;
+    font-variant: small-caps
+    }
